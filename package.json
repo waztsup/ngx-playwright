@@ -10,6 +10,7 @@
     "build": "sn build"
   },
   "devDependencies": {
+    "@angular/cli": "12.0.0",
     "@snuggery/node": "0.2.0",
     "@snuggery/snuggery": "0.3.0",
     "@snuggery/yarn": "0.2.0",
